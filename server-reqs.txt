@@ -9,7 +9,7 @@ Client
 
 Mods
 OptiFine
-HYWLA
+Jade
 Clumps
 JourneyMap
 JEI

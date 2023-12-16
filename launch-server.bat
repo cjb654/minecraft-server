@@ -1,0 +1,1 @@
+java -Xmx6G -Xms6G -jar build/forge-1.20.1-47.2.0-universal.jar -o true nogui
