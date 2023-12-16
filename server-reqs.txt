@@ -1,0 +1,17 @@
+Server
+
+Plugins
+EssentialsX
+WorldEdit
+LuckPerms
+
+Client
+
+Mods
+OptiFine
+HYWLA
+Clumps
+JourneyMap
+JEI
+Create
+WorldEdit
